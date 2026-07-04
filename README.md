@@ -2,8 +2,12 @@
 
 Projeto desenvolvido com HTML, CSS e JavaScript.
 
-## Funcionalidades
+## 🚀 Demo Online
+Acesse aqui:
 
+https://dassaevy-ono.github.io/calculadora-simples/
+
+## 📌 Funcionalidades
 - Soma
 - Subtração
 - Multiplicação
@@ -12,16 +16,10 @@ Projeto desenvolvido com HTML, CSS e JavaScript.
 - Apagar último caractere
 - Interface responsiva
 
-## Tecnologias
-
+## 🛠 Tecnologias
 - HTML5
 - CSS3
 - JavaScript
 
-## Como executar
-
-Basta abrir o arquivo `index.html` no navegador.
-
-## Autor
-
+## 👨‍💻 Autor
 Dassaevy Ono
